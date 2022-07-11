@@ -1,4 +1,6 @@
 facebook.com, 1240324590114216, DIRECT, c3e20eee3f780d68
+facebook.com, 705409140750161, DIRECT, c3e20eee3f780d68
+facebook.com, 910131870388908, DIRECT, c3e20eee3f780d68
 
 #IronSource BB
 ironsrc.com, 197891, DIRECT, 79929e88b2ba73bc
